@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Arseniy Myasnik
 
-<!--
-**ArseniyMyasnik/ArseniyMyasnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer with 2.5+ years of experience in manual and automated testing of web services, telecom billing flows, API/SOAP integrations, and subscriber-facing products.
 
-Here are some ideas to get you started:
+## Core Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Manual testing: test cases, bug reports, regression testing, functional testing
+- Automation: Python, Selenium WebDriver, pytest, Page Object Model, Allure
+- API/Data: Postman, SoapUI, SQL, database validation
+- Tools: Git, Jira, DevTools
+
+## Portfolio
+
+- [python-selenium-booking-tests](https://github.com/ArseniyMyasnik/python-selenium-booking-tests) — UI automation project for a demo booking website using Python, Selenium, pytest, Allure, and Page Object Model.
