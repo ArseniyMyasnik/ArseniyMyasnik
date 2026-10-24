@@ -2,6 +2,8 @@
 
 QA Engineer with 2.5+ years of experience in manual and automated testing of web services, telecom billing flows, API/SOAP integrations, and subscriber-facing products.
 
+[LinkedIn](https://www.linkedin.com/in/arseniy-myasnik-7538531b9)  ·  [Telegram](https://t.me/ArseniyMyasnik)
+
 ## Core Skills
 
 - **Manual testing:** test cases, bug reports, regression testing, functional testing, boundary value analysis
