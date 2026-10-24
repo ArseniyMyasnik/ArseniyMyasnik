@@ -1,6 +1,6 @@
 # Hi, I'm Arseniy Myasnik
 
-QA Engineer with 2.5+ years of experience in manual and automated testing of web services, telecom billing flows, API/SOAP integrations, and subscriber-facing products.
+QA Engineer with 2.5+ years of experience in manual and automated testing of web services, telecom billing flows, API/SOAP integrations, and customer-facing products.
 
 [LinkedIn](https://www.linkedin.com/in/arseniy-myasnik-7538531b9)  ·  [Telegram](https://t.me/ArseniyMyasnik)
 
